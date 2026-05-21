@@ -237,7 +237,7 @@ export default function Home() {
           <Logo />
           <nav className="flex items-center gap-1">
             <Link href="/blog" className="text-xs text-zinc-500 hover:text-zinc-900 px-3 py-1.5 rounded-md hover:bg-zinc-50 transition-colors">Blog</Link>
-            <Link href="/showcase" className="text-xs text-zinc-500 hover:text-zinc-900 px-3 py-1.5 rounded-md hover:bg-zinc-50 transition-colors">Showcase</Link>
+            <Link href="https://seo-audit--snezhnayaa.replit.app/marketplace" target="_blank" rel="noopener noreferrer" className="text-xs text-zinc-500 hover:text-zinc-900 px-3 py-1.5 rounded-md hover:bg-zinc-50 transition-colors">Showcase</Link>
           </nav>
         </div>
       </header>
